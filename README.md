@@ -39,10 +39,6 @@ Siempre en búsqueda de nuevos retos que impulsen mi crecimiento profesional y m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" alt="github logo" />
-  <img width="14" />
-  <!-- Mockito (usando ícono de Java) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Junit5_logo.png" height="44" alt="junit logo" />
- 
 </div>
 
 ###
